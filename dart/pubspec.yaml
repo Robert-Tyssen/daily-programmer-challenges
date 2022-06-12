@@ -1,0 +1,7 @@
+name: daily_programmer_dart
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies: 
+  path: ^1.8.0
